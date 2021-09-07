@@ -1,6 +1,6 @@
 # <font face="ink free" size = 8>yangni_414join</font>
 
-# **<font face="comic sans ms" size = 5>1.自我介绍</font>**
+**<font face="comic sans ms" size = 5>1.自我介绍</font>**
 
 > 大家好！我的名字是杨妮，一名来自数字媒体技术专业的大二学生。我喜欢新奇，刺激的事物。同时，我的兴趣爱好也有很多，例如：篮球，古筝，拍照等等。在大一学年学习了一些ps、c语言、Python等专业知识。
 
