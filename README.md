@@ -20,5 +20,4 @@
 >
 > ④交更多的朋友
 
-
-![背景](C:\Users\Administrator\Desktop\网页设计1\背景.jpg)
+![背景](https://user-images.githubusercontent.com/90245897/132344936-bd41bc23-9d5a-4438-9a83-43dbc568f323.jpg)
